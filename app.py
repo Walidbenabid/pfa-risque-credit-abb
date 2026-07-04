@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 ============================================================================
- Application Streamlit — Pilotage du Risque de Crédit (Al Barid Bank, PFA)
+ Application Streamlit — Pilotage du Risque de Crédit (PFA)
  Auteur : Walid BEN ABID — Filière IFA, FST Errachidia
 ----------------------------------------------------------------------------
  Cette application automatise l'intégralité de la chaîne quantitative du
